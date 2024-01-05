@@ -1,0 +1,5 @@
+nussl
+common @ git+https://github.com/source-separation/tutorial@main
+ipython
+torchaudio
+jupyter
